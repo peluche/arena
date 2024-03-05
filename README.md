@@ -31,3 +31,6 @@
 
 ## Mech interp
 - https://arena3-chapter1-transformer-interp.streamlit.app/[1.2]_Intro_to_Mech_Interp
+
+## Balance brackets:
+- https://arena3-chapter1-transformer-interp.streamlit.app/[1.7]_Balanced_Bracket_Classifier
