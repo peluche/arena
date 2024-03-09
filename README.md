@@ -34,3 +34,14 @@
 
 ## Balance brackets:
 - https://arena3-chapter1-transformer-interp.streamlit.app/[1.7]_Balanced_Bracket_Classifier
+
+## Intro to RL & DQN:
+- https://arena3-chapter2-rl.streamlit.app/[2.1]_Intro_to_RL
+- https://arena3-chapter2-rl.streamlit.app/[2.2]_Q-Learning_and_DQN
+
+## PPO:
+- https://arena3-chapter2-rl.streamlit.app/%5B2.3%5D_PPO
+- https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/
+
+## RLHF:
+- https://arena3-chapter2-rl.streamlit.app/[2.4]_RLHF
